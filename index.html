@@ -106,7 +106,7 @@ $(document).on("click", ".pic-btn", showAnimlas);
 
    renderButtons();
 
-   $('<img>').on('click',function(){
+   $(document).on('click','.images',function(){
      var state = $(this).attr('data-state');
 
      if(state=== 'still'){
