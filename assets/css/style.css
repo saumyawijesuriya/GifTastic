@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: palevioletred;
+   font-size: 75px;
+}
+body{
+padding-left: 10%;
+padding-right: 10%;
+    
+}
+
+#container{
+
+}
+
+img{
+    position: relative;
+    position: 15% left;
+    width:25%;
+    border-color: blue;
+    
+}
+
+.pic-btn{
+    background-color: rebeccapurple;
+    color: palevioletred;
+    border-color: black
+}
+
+#pic-button{
+    align-content: center;
+}
+
+#search{
+    font-size: 200%;
+    color: aliceblue;
+}
+button{
+    background-color: brown;
+    color: yellow;
+    border-color: black;
+}
